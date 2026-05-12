@@ -25,6 +25,7 @@ exe.root_module.addImport("compecs", compecs_dep.module("compecs"));
 If u want u can run demo compecs lib with Raylib (thanks LazyDependency):
 
 ```bash
+z zig-pkg/compecs-X.X.X # or cd/zig-pkg/compecs-X.X.X
 zig build run-demo --release=fast
 ```
 
