@@ -1,4 +1,5 @@
-[!WARNING] Currently this repo in archive because i stop writting in Zig
+> [!WARNING] 
+> Currently this repo in archive because i stop writting in Zig
 
 # Compecs
 
