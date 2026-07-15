@@ -1,6 +1,3 @@
-> [!WARNING] 
-> Currently this repo in archive because i stop writting in Zig
-
 # Compecs
 
 Compecs (Comptime + ECS) - it's proof-of-concept library written in Zig (0.17.0) via comptime.
